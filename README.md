@@ -15,7 +15,7 @@
     ```
 
 4. Pastikan Anda telah menginstal plugin `Cucumber for Java` dan `Gherkins` untuk mendukung pengujian otomatis. Bila Anda menggunakan IntelliJ, Anda bisa menginstalnya dari plugin dengan menggunakan shortcut `ctrl + alt + s`, lalu instal plugin yang diperlukan. Jangan lupa untuk merestart IDE setelah plugin berhasil ditambahkan.
-   <br> <img src="main/src/image/plugin.png">
+   <br> <img src="src/image/plugin.png">
 
 
 
